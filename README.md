@@ -1,4 +1,4 @@
-# **Santander Code Girls Bootcamp**
+# **Desafio Bootcamp DIO**
 Desafio de Projeto de Git/Github da DIO
 
 ## Links Úteis
